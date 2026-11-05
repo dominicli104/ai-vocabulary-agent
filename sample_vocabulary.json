@@ -1,0 +1,98 @@
+[
+  {
+    "term": "meticulous",
+    "part_of_speech": "adjective",
+    "definition": "very careful and attentive to detail",
+    "example_sentence": "The analyst performed a meticulous review of the specification.",
+    "sample_source": "Meeting Notes",
+    "category": "Professional English"
+  },
+  {
+    "term": "streamline",
+    "part_of_speech": "verb",
+    "definition": "to make a process simpler and more efficient",
+    "example_sentence": "We should streamline the review workflow.",
+    "sample_source": "Meeting Notes",
+    "category": "Professional English"
+  },
+  {
+    "term": "milestone",
+    "part_of_speech": "noun",
+    "definition": "an important stage or point of progress",
+    "example_sentence": "The team completed the first milestone on schedule.",
+    "sample_source": "Meeting Notes",
+    "category": "Project Communication"
+  },
+  {
+    "term": "follow through",
+    "part_of_speech": "phrasal verb",
+    "definition": "to complete an action or commitment",
+    "example_sentence": "Please follow through on the agreed action items.",
+    "sample_source": "Meeting Notes",
+    "category": "Workplace Phrases"
+  },
+  {
+    "term": "traceability",
+    "part_of_speech": "noun",
+    "definition": "the ability to follow a link or history between related items",
+    "example_sentence": "Requirement traceability connects a business need to its test case.",
+    "sample_source": "BA Study Notes",
+    "category": "Business Analysis"
+  },
+  {
+    "term": "ambiguous",
+    "part_of_speech": "adjective",
+    "definition": "having more than one possible meaning",
+    "example_sentence": "The requirement was ambiguous and needed clarification.",
+    "sample_source": "BA Study Notes",
+    "category": "Business Analysis"
+  },
+  {
+    "term": "inference",
+    "part_of_speech": "noun",
+    "definition": "a conclusion reached from evidence and reasoning",
+    "example_sentence": "An inference should not be presented as a verified requirement.",
+    "sample_source": "BA Study Notes",
+    "category": "Business Analysis"
+  },
+  {
+    "term": "backlog",
+    "part_of_speech": "noun",
+    "definition": "a prioritised list of work that remains to be done",
+    "example_sentence": "The product backlog contains the upcoming user stories.",
+    "sample_source": "BA Study Notes",
+    "category": "Business Analysis"
+  },
+  {
+    "term": "contingency",
+    "part_of_speech": "noun",
+    "definition": "an alternative action planned for an unexpected event",
+    "example_sentence": "A contingency plan was prepared for integration delays.",
+    "sample_source": "BA Study Notes",
+    "category": "Project Communication"
+  },
+  {
+    "term": "concise",
+    "part_of_speech": "adjective",
+    "definition": "giving information clearly in a few words",
+    "example_sentence": "Write a concise summary for the stakeholder meeting.",
+    "sample_source": "Everyday Reading",
+    "category": "General English"
+  },
+  {
+    "term": "at a glance",
+    "part_of_speech": "phrase",
+    "definition": "quickly, without detailed examination",
+    "example_sentence": "The dashboard shows project health at a glance.",
+    "sample_source": "Everyday Reading",
+    "category": "Useful Phrases"
+  },
+  {
+    "term": "clarify",
+    "part_of_speech": "verb",
+    "definition": "to make something easier to understand",
+    "example_sentence": "Could you clarify the meaning of this sentence?",
+    "sample_source": "Everyday Reading",
+    "category": "General English"
+  }
+]
